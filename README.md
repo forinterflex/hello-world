@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/forinterflex/vlab-run/master/docker-compose.ym
 
 6. Pull the base image
 
-`docker pull forinterflex/vlab:ait-v0.1`
+`docker-compose pull vlab-config`
 
 7. Finally, run the VLab
 
