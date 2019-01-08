@@ -13,3 +13,4 @@
 5. Save the docker-compose.yml file in a directory of your choice.
 6. Pull the base image `docker-compose pull vlab-config`
 7. Finally, run the VLab `docker-compose up` from the diectroty where you have coppied the configuration file in Step 5.
+8. Attach to simulation admin using `docker attach iflex-vlab-admin'
