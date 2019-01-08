@@ -1,6 +1,1 @@
-# hello-world
-Just another repository
-
-Hello!
-
-Trying to learn GitHub and Docker together!
+# Setting up InterFlex VLab
