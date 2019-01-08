@@ -6,9 +6,9 @@
 
 ## 3. Run VLab
 
-0 Run docker 
-0 Open Docker CLI. On Windows this should/can be the Power Shell or Docker
-0 Login with your Docker ID using the command
+0. Run docker 
+0. Open Docker CLI. On Windows this should/can be the Power Shell or Docker
+0. Login with your Docker ID using the command
 
 `docker login`
 
